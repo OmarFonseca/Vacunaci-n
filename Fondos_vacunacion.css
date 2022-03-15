@@ -1,0 +1,26 @@
+
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section{
+    height: 800px;
+}
+
+.enfermero{
+    background-image: url("Img/17.png");
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    width: 1335px;
+    height: 1000px;
+    background-size: 1200px;
+}
+
+.pieDePag{
+    background-image: url("Img/18.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 310px;
+    background-size: 1390px;
+}
+
